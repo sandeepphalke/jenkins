@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: helloworld_sandeep.helloworld_sandeep.TesthelloWorld
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.065 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.62 sec

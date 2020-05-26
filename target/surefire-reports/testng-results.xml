@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="helloworld_sandeep.helloworld_sandeep.TesthelloWorld" duration-ms="197" started-at="2020-05-25T21:30:35Z" finished-at="2020-05-25T21:30:35Z">
+  <suite name="helloworld_sandeep.helloworld_sandeep.TesthelloWorld" duration-ms="68" started-at="2020-05-26T20:59:27Z" finished-at="2020-05-26T20:59:27Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="197" started-at="2020-05-25T21:30:35Z" finished-at="2020-05-25T21:30:35Z">
+    <test name="Command line test" duration-ms="68" started-at="2020-05-26T20:59:27Z" finished-at="2020-05-26T20:59:27Z">
       <class name="helloworld_sandeep.helloworld_sandeep.TesthelloWorld">
-        <test-method status="PASS" signature="testHelloWorld()[pri:0, instance:helloworld_sandeep.helloworld_sandeep.TesthelloWorld@19dfb72a]" name="testHelloWorld" duration-ms="79" started-at="2020-05-25T21:30:35Z" finished-at="2020-05-25T21:30:35Z">
+        <test-method status="PASS" signature="testHelloWorld()[pri:0, instance:helloworld_sandeep.helloworld_sandeep.TesthelloWorld@19dfb72a]" name="testHelloWorld" duration-ms="20" started-at="2020-05-26T20:59:27Z" finished-at="2020-05-26T20:59:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHelloWorld -->
