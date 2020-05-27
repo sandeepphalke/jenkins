@@ -2,25 +2,23 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="helloworld_sandeep.helloworld_sandeep.TesthelloWorld" duration-ms="85" started-at="2020-05-26T21:08:30Z" finished-at="2020-05-26T21:08:30Z">
+  <suite name="helloworld_sandeep.helloworld_sandeep.TesthelloWorld" duration-ms="81" started-at="2020-05-26T21:16:33Z" finished-at="2020-05-26T21:16:33Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="85" started-at="2020-05-26T21:08:30Z" finished-at="2020-05-26T21:08:30Z">
+    <test name="Command line test" duration-ms="81" started-at="2020-05-26T21:16:33Z" finished-at="2020-05-26T21:16:33Z">
       <class name="helloworld_sandeep.helloworld_sandeep.TesthelloWorld">
-        <test-method status="FAIL" signature="testHelloWorld()[pri:0, instance:helloworld_sandeep.helloworld_sandeep.TesthelloWorld@19dfb72a]" name="testHelloWorld" duration-ms="22" started-at="2020-05-26T21:08:30Z" finished-at="2020-05-26T21:08:30Z">
+        <test-method status="FAIL" signature="testHelloWorld()[pri:0, instance:helloworld_sandeep.helloworld_sandeep.TesthelloWorld@19dfb72a]" name="testHelloWorld" duration-ms="18" started-at="2020-05-26T21:16:33Z" finished-at="2020-05-26T21:16:33Z">
           <exception class="java.lang.Error">
             <message>
-              <![CDATA[Unresolved compilation problems: 
-The method pr(String) is undefined for the type PrintStream
+              <![CDATA[Unresolved compilation problem: 
 The method pr(String) is undefined for the type PrintStream
 ]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.Error: Unresolved compilation problems: 
-The method pr(String) is undefined for the type PrintStream
+              <![CDATA[java.lang.Error: Unresolved compilation problem: 
 The method pr(String) is undefined for the type PrintStream
 
-at helloworld_sandeep.helloworld_sandeep.TesthelloWorld.testHelloWorld(TesthelloWorld.java:14)
+at helloworld_sandeep.helloworld_sandeep.TesthelloWorld.testHelloWorld(TesthelloWorld.java:15)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

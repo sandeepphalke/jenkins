@@ -1,11 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: helloworld_sandeep.helloworld_sandeep.TesthelloWorld
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.295 sec <<< FAILURE!
-testHelloWorld(helloworld_sandeep.helloworld_sandeep.TesthelloWorld)  Time elapsed: 0.032 sec  <<< FAILURE!
-java.lang.Error: Unresolved compilation problems: 
-	The method pr(String) is undefined for the type PrintStream
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.311 sec <<< FAILURE!
+testHelloWorld(helloworld_sandeep.helloworld_sandeep.TesthelloWorld)  Time elapsed: 0.034 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problem: 
 	The method pr(String) is undefined for the type PrintStream
 
-	at helloworld_sandeep.helloworld_sandeep.TesthelloWorld.testHelloWorld(TesthelloWorld.java:14)
+	at helloworld_sandeep.helloworld_sandeep.TesthelloWorld.testHelloWorld(TesthelloWorld.java:15)
 
